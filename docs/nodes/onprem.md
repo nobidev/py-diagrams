@@ -479,6 +479,9 @@ Node classes list of the onprem provider.
 <img width="30" src="/img/resources/onprem/network/zookeeper.png" alt="Zookeeper" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.network.Zookeeper**
 
+<img width="30" src="/img/resources/onprem/network/mikrotik.png" alt="Mikrotik" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.network.Mikrotik**
+
 ## onprem.proxmox
 
 

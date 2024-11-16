@@ -127,6 +127,9 @@ class Yarp(_Network):
 class Zookeeper(_Network):
     _icon = "zookeeper.png"
 
+class Mikrotik(_Network):
+    _icon = "mikrotik.png"
+
 
 # Aliases
 
